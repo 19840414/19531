@@ -22,3 +22,5 @@ jobs:
       - name: Install milvus
         run: |
           python3 -m pip install milvus
+          python3 -m pip install gptcache
+
